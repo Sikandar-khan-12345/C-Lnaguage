@@ -1,0 +1,283 @@
+.main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_div {
+    height: 165.6vh;
+  
+    width: 55%;
+    border: 2px solid black;
+    border-bottom: none;
+}
+
+.main_h {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.main_img {
+    width: 20%;
+}
+
+.img {
+    width: 10%;
+    position: relative;
+    left: 10px;
+    bottom: 85px;
+}
+
+.hadar {
+    font-size: 70px;
+    font-weight: 600;
+    position: relative;
+    left: 20px;
+    bottom: 60px;
+
+}
+
+.phadar {
+    font-size: 36.5px;
+    font-weight: 550;
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+
+
+}
+
+.inp {
+    padding: 50px;
+    border: 3px solid black;
+    width: 3.5%;
+    height: 8vh;
+    position: relative;
+    left: 76.4%;
+    bottom: 137px;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* ghghggn */
+    position: absolute;
+    font-size: 34px;
+    font-weight: 900;
+    bottom: 23px;
+    left: 10px;
+    top: 30px;
+    right: 10px;
+    transform: rotate(-28deg);
+    color: gray;
+
+}
+
+.admission {
+    border: 1.5px solid black;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    font-size: 17px;
+    font-weight: 100;
+    font-style: oblique;
+    position: relative;
+    bottom: 205px;
+    left: 205px;
+
+}
+
+.add {
+    position: relative;
+    bottom: 24px;
+}
+
+.main_inp {
+    position: relative;
+    bottom: 175px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.student {
+    border: none;
+    width: 65%;
+    border-bottom: 2px dotted;
+}
+
+.Father {
+    border: none;
+    width: 65.9%;
+    border-bottom: 2px dotted;
+}
+
+.Parents {
+    border: none;
+    width: 65.3%;
+    border-bottom: 2px dotted;
+}
+
+.Date {
+    border: none;
+    width: 30.9%;
+    border-bottom: 2px dotted;
+    position: relative;
+    right: 120px;
+}
+
+.Gender {
+    border: 2px solid black;
+    position: relative;
+    right: 180px;
+}
+
+.Genderr {
+    position: relative;
+    right: 180px;
+}
+
+.Genders {
+    position: relative;
+    right: 190px;
+}
+
+.mob {
+    border: none;
+    width: 65.9%;
+    border-bottom: 2px dotted;
+}
+
+.aadhaar {
+    border: none;
+    width: 65.9%;
+    border-bottom: 2px dotted;
+}
+
+.quali {
+    border: none;
+    width: 65.3%;
+    border-bottom: 2px dotted;
+}
+
+.email {
+    border: none;
+    width: 69.9%;
+    border-bottom: 2px dotted;
+}
+
+.address {
+    border: none;
+    width: 69.8%;
+    border-bottom: 2px dotted;
+}
+
+.main_Courses {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.Courses {
+    font-size: 48px;
+    font-weight: 300;
+}
+
+.css {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_css {
+    position: relative;
+    bottom: 110px;
+    border-bottom: 2px dotted;
+    height: 51vh;
+}
+
+.Dates {
+    position: relative;
+    right: 122px;
+}
+
+.main_contect {
+    border: 2px solid black;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    height: 30vh;
+    position: relative;
+    bottom: 110px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.n {
+    border: none;
+    width: 36%;
+    border-bottom: 2px dotted;
+    position: relative;
+    left: 220px;
+    top: 16px;
+    margin-top: 14px;
+
+
+}
+
+.l {
+    position: relative;
+    left: 219px;
+    top: 30px;
+    font-size: 20px;
+    margin-top: 14px;
+}
+
+.ll {
+    position: relative;
+    left: 10px;
+    top: 22px;
+    font-size: 20px;
+}
+
+.nn {
+    border: none;
+    width: 70%;
+    border-bottom: 2px dotted;
+    position: relative;
+    left: 145px;
+    top: 1px;
+}
+
+.emai {
+    border: 2px solid black;
+    height: 40px;
+    width: 50%;
+    position: relative;
+    top: 65px;
+    right: 395px;
+}
+
+.ms {
+    width: 100vw;
+    height: 40px;
+    position: absolute;
+    top: 70px;
+    left: 100px;
+    font-size: 20px;
+}
+.mc{
+    position: relative;
+    right: 30px;
+}
